@@ -10,7 +10,8 @@ Permite realizar operações matemática básicas.
 - Desing moderno e responsivo.
 
 ## Demonstração
-*(image)*
+
+![Calculadora](./screenshot.png)
 
 ## Tecnologias
 - HTML5
